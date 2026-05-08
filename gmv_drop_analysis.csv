@@ -1,0 +1,337 @@
+date,week,platform,category,region,sessions,orders,gmv
+2026-03-30,Mar 30-Apr 5,Android,Electronics,North America,4523,226,113000
+2026-03-30,Mar 30-Apr 5,Android,Electronics,EMEA,3270,163,81500
+2026-03-30,Mar 30-Apr 5,Android,Electronics,APAC,3162,158,79000
+2026-03-30,Mar 30-Apr 5,Android,Fashion,North America,4019,120,9600
+2026-03-30,Mar 30-Apr 5,Android,Fashion,EMEA,4619,138,11040
+2026-03-30,Mar 30-Apr 5,Android,Fashion,APAC,4947,148,11840
+2026-03-30,Mar 30-Apr 5,Android,Home & Garden,North America,4558,136,10880
+2026-03-30,Mar 30-Apr 5,Android,Home & Garden,EMEA,4928,147,11760
+2026-03-30,Mar 30-Apr 5,Android,Home & Garden,APAC,4827,144,11520
+2026-03-30,Mar 30-Apr 5,Android,Beauty,North America,3222,96,7680
+2026-03-30,Mar 30-Apr 5,Android,Beauty,EMEA,4128,123,9840
+2026-03-30,Mar 30-Apr 5,Android,Beauty,APAC,3277,98,7840
+2026-03-30,Mar 30-Apr 5,iOS,Electronics,North America,3921,196,98000
+2026-03-30,Mar 30-Apr 5,iOS,Electronics,EMEA,3913,195,97500
+2026-03-30,Mar 30-Apr 5,iOS,Electronics,APAC,4227,211,105500
+2026-03-30,Mar 30-Apr 5,iOS,Fashion,North America,4330,129,10320
+2026-03-30,Mar 30-Apr 5,iOS,Fashion,EMEA,3498,104,8320
+2026-03-30,Mar 30-Apr 5,iOS,Fashion,APAC,4998,149,11920
+2026-03-30,Mar 30-Apr 5,iOS,Home & Garden,North America,3806,114,9120
+2026-03-30,Mar 30-Apr 5,iOS,Home & Garden,EMEA,3088,92,7360
+2026-03-30,Mar 30-Apr 5,iOS,Home & Garden,APAC,4427,132,10560
+2026-03-30,Mar 30-Apr 5,iOS,Beauty,North America,4360,130,10400
+2026-03-30,Mar 30-Apr 5,iOS,Beauty,EMEA,3259,97,7760
+2026-03-30,Mar 30-Apr 5,iOS,Beauty,APAC,3900,117,9360
+2026-03-31,Mar 30-Apr 5,Android,Electronics,North America,3710,185,92500
+2026-03-31,Mar 30-Apr 5,Android,Electronics,EMEA,4909,245,122500
+2026-03-31,Mar 30-Apr 5,Android,Electronics,APAC,4480,224,112000
+2026-03-31,Mar 30-Apr 5,Android,Fashion,North America,3572,107,8560
+2026-03-31,Mar 30-Apr 5,Android,Fashion,EMEA,3061,91,7280
+2026-03-31,Mar 30-Apr 5,Android,Fashion,APAC,3161,94,7520
+2026-03-31,Mar 30-Apr 5,Android,Home & Garden,North America,4396,131,10480
+2026-03-31,Mar 30-Apr 5,Android,Home & Garden,EMEA,4589,137,10960
+2026-03-31,Mar 30-Apr 5,Android,Home & Garden,APAC,3924,117,9360
+2026-03-31,Mar 30-Apr 5,Android,Beauty,North America,4816,144,11520
+2026-03-31,Mar 30-Apr 5,Android,Beauty,EMEA,3068,92,7360
+2026-03-31,Mar 30-Apr 5,Android,Beauty,APAC,3279,98,7840
+2026-03-31,Mar 30-Apr 5,iOS,Electronics,North America,3859,192,96000
+2026-03-31,Mar 30-Apr 5,iOS,Electronics,EMEA,3087,154,77000
+2026-03-31,Mar 30-Apr 5,iOS,Electronics,APAC,3349,167,83500
+2026-03-31,Mar 30-Apr 5,iOS,Fashion,North America,3177,95,7600
+2026-03-31,Mar 30-Apr 5,iOS,Fashion,EMEA,4841,145,11600
+2026-03-31,Mar 30-Apr 5,iOS,Fashion,APAC,4512,135,10800
+2026-03-31,Mar 30-Apr 5,iOS,Home & Garden,North America,3551,106,8480
+2026-03-31,Mar 30-Apr 5,iOS,Home & Garden,EMEA,4869,146,11680
+2026-03-31,Mar 30-Apr 5,iOS,Home & Garden,APAC,4439,133,10640
+2026-03-31,Mar 30-Apr 5,iOS,Beauty,North America,4715,141,11280
+2026-03-31,Mar 30-Apr 5,iOS,Beauty,EMEA,4912,147,11760
+2026-03-31,Mar 30-Apr 5,iOS,Beauty,APAC,4147,124,9920
+2026-04-01,Mar 30-Apr 5,Android,Electronics,North America,3782,189,94500
+2026-04-01,Mar 30-Apr 5,Android,Electronics,EMEA,3680,184,92000
+2026-04-01,Mar 30-Apr 5,Android,Electronics,APAC,3890,194,97000
+2026-04-01,Mar 30-Apr 5,Android,Fashion,North America,3727,111,8880
+2026-04-01,Mar 30-Apr 5,Android,Fashion,EMEA,3112,93,7440
+2026-04-01,Mar 30-Apr 5,Android,Fashion,APAC,3500,105,8400
+2026-04-01,Mar 30-Apr 5,Android,Home & Garden,North America,3582,107,8560
+2026-04-01,Mar 30-Apr 5,Android,Home & Garden,EMEA,3641,109,8720
+2026-04-01,Mar 30-Apr 5,Android,Home & Garden,APAC,4600,138,11040
+2026-04-01,Mar 30-Apr 5,Android,Beauty,North America,4679,140,11200
+2026-04-01,Mar 30-Apr 5,Android,Beauty,EMEA,4848,145,11600
+2026-04-01,Mar 30-Apr 5,Android,Beauty,APAC,4957,148,11840
+2026-04-01,Mar 30-Apr 5,iOS,Electronics,North America,4226,211,105500
+2026-04-01,Mar 30-Apr 5,iOS,Electronics,EMEA,4735,236,118000
+2026-04-01,Mar 30-Apr 5,iOS,Electronics,APAC,4864,243,121500
+2026-04-01,Mar 30-Apr 5,iOS,Fashion,North America,3439,103,8240
+2026-04-01,Mar 30-Apr 5,iOS,Fashion,EMEA,4548,136,10880
+2026-04-01,Mar 30-Apr 5,iOS,Fashion,APAC,4806,144,11520
+2026-04-01,Mar 30-Apr 5,iOS,Home & Garden,North America,3224,96,7680
+2026-04-01,Mar 30-Apr 5,iOS,Home & Garden,EMEA,4246,127,10160
+2026-04-01,Mar 30-Apr 5,iOS,Home & Garden,APAC,4746,142,11360
+2026-04-01,Mar 30-Apr 5,iOS,Beauty,North America,3413,102,8160
+2026-04-01,Mar 30-Apr 5,iOS,Beauty,EMEA,3934,118,9440
+2026-04-01,Mar 30-Apr 5,iOS,Beauty,APAC,3527,105,8400
+2026-04-02,Mar 30-Apr 5,Android,Electronics,North America,4466,223,111500
+2026-04-02,Mar 30-Apr 5,Android,Electronics,EMEA,4708,235,117500
+2026-04-02,Mar 30-Apr 5,Android,Electronics,APAC,3498,174,87000
+2026-04-02,Mar 30-Apr 5,Android,Fashion,North America,3022,90,7200
+2026-04-02,Mar 30-Apr 5,Android,Fashion,EMEA,3860,115,9200
+2026-04-02,Mar 30-Apr 5,Android,Fashion,APAC,4093,122,9760
+2026-04-02,Mar 30-Apr 5,Android,Home & Garden,North America,3497,104,8320
+2026-04-02,Mar 30-Apr 5,Android,Home & Garden,EMEA,4260,127,10160
+2026-04-02,Mar 30-Apr 5,Android,Home & Garden,APAC,4743,142,11360
+2026-04-02,Mar 30-Apr 5,Android,Beauty,North America,3790,113,9040
+2026-04-02,Mar 30-Apr 5,Android,Beauty,EMEA,4223,126,10080
+2026-04-02,Mar 30-Apr 5,Android,Beauty,APAC,4076,122,9760
+2026-04-02,Mar 30-Apr 5,iOS,Electronics,North America,4942,247,123500
+2026-04-02,Mar 30-Apr 5,iOS,Electronics,EMEA,4431,221,110500
+2026-04-02,Mar 30-Apr 5,iOS,Electronics,APAC,4646,232,116000
+2026-04-02,Mar 30-Apr 5,iOS,Fashion,North America,3443,103,8240
+2026-04-02,Mar 30-Apr 5,iOS,Fashion,EMEA,3413,102,8160
+2026-04-02,Mar 30-Apr 5,iOS,Fashion,APAC,3793,113,9040
+2026-04-02,Mar 30-Apr 5,iOS,Home & Garden,North America,3421,102,8160
+2026-04-02,Mar 30-Apr 5,iOS,Home & Garden,EMEA,3697,110,8800
+2026-04-02,Mar 30-Apr 5,iOS,Home & Garden,APAC,3825,114,9120
+2026-04-02,Mar 30-Apr 5,iOS,Beauty,North America,4628,138,11040
+2026-04-02,Mar 30-Apr 5,iOS,Beauty,EMEA,3191,95,7600
+2026-04-02,Mar 30-Apr 5,iOS,Beauty,APAC,3384,101,8080
+2026-04-03,Mar 30-Apr 5,Android,Electronics,North America,3267,163,81500
+2026-04-03,Mar 30-Apr 5,Android,Electronics,EMEA,4789,239,119500
+2026-04-03,Mar 30-Apr 5,Android,Electronics,APAC,4848,242,121000
+2026-04-03,Mar 30-Apr 5,Android,Fashion,North America,4093,122,9760
+2026-04-03,Mar 30-Apr 5,Android,Fashion,EMEA,4814,144,11520
+2026-04-03,Mar 30-Apr 5,Android,Fashion,APAC,4520,135,10800
+2026-04-03,Mar 30-Apr 5,Android,Home & Garden,North America,4672,140,11200
+2026-04-03,Mar 30-Apr 5,Android,Home & Garden,EMEA,3442,103,8240
+2026-04-03,Mar 30-Apr 5,Android,Home & Garden,APAC,3059,91,7280
+2026-04-03,Mar 30-Apr 5,Android,Beauty,North America,3300,99,7920
+2026-04-03,Mar 30-Apr 5,Android,Beauty,EMEA,4829,144,11520
+2026-04-03,Mar 30-Apr 5,Android,Beauty,APAC,3489,104,8320
+2026-04-03,Mar 30-Apr 5,iOS,Electronics,North America,4509,225,112500
+2026-04-03,Mar 30-Apr 5,iOS,Electronics,EMEA,4428,221,110500
+2026-04-03,Mar 30-Apr 5,iOS,Electronics,APAC,4193,209,104500
+2026-04-03,Mar 30-Apr 5,iOS,Fashion,North America,3167,95,7600
+2026-04-03,Mar 30-Apr 5,iOS,Fashion,EMEA,4721,141,11280
+2026-04-03,Mar 30-Apr 5,iOS,Fashion,APAC,4523,135,10800
+2026-04-03,Mar 30-Apr 5,iOS,Home & Garden,North America,4293,128,10240
+2026-04-03,Mar 30-Apr 5,iOS,Home & Garden,EMEA,4218,126,10080
+2026-04-03,Mar 30-Apr 5,iOS,Home & Garden,APAC,3760,112,8960
+2026-04-03,Mar 30-Apr 5,iOS,Beauty,North America,3376,101,8080
+2026-04-03,Mar 30-Apr 5,iOS,Beauty,EMEA,3657,109,8720
+2026-04-03,Mar 30-Apr 5,iOS,Beauty,APAC,4411,132,10560
+2026-04-04,Mar 30-Apr 5,Android,Electronics,North America,3669,183,91500
+2026-04-04,Mar 30-Apr 5,Android,Electronics,EMEA,3449,172,86000
+2026-04-04,Mar 30-Apr 5,Android,Electronics,APAC,4005,200,100000
+2026-04-04,Mar 30-Apr 5,Android,Fashion,North America,3717,111,8880
+2026-04-04,Mar 30-Apr 5,Android,Fashion,EMEA,3842,115,9200
+2026-04-04,Mar 30-Apr 5,Android,Fashion,APAC,4342,130,10400
+2026-04-04,Mar 30-Apr 5,Android,Home & Garden,North America,4537,136,10880
+2026-04-04,Mar 30-Apr 5,Android,Home & Garden,EMEA,3736,112,8960
+2026-04-04,Mar 30-Apr 5,Android,Home & Garden,APAC,3715,111,8880
+2026-04-04,Mar 30-Apr 5,Android,Beauty,North America,3061,91,7280
+2026-04-04,Mar 30-Apr 5,Android,Beauty,EMEA,4001,120,9600
+2026-04-04,Mar 30-Apr 5,Android,Beauty,APAC,3385,101,8080
+2026-04-04,Mar 30-Apr 5,iOS,Electronics,North America,4120,206,103000
+2026-04-04,Mar 30-Apr 5,iOS,Electronics,EMEA,4301,215,107500
+2026-04-04,Mar 30-Apr 5,iOS,Electronics,APAC,3919,195,97500
+2026-04-04,Mar 30-Apr 5,iOS,Fashion,North America,3135,94,7520
+2026-04-04,Mar 30-Apr 5,iOS,Fashion,EMEA,4825,144,11520
+2026-04-04,Mar 30-Apr 5,iOS,Fashion,APAC,4340,130,10400
+2026-04-04,Mar 30-Apr 5,iOS,Home & Garden,North America,3747,112,8960
+2026-04-04,Mar 30-Apr 5,iOS,Home & Garden,EMEA,3745,112,8960
+2026-04-04,Mar 30-Apr 5,iOS,Home & Garden,APAC,4852,145,11600
+2026-04-04,Mar 30-Apr 5,iOS,Beauty,North America,3278,98,7840
+2026-04-04,Mar 30-Apr 5,iOS,Beauty,EMEA,4951,148,11840
+2026-04-04,Mar 30-Apr 5,iOS,Beauty,APAC,4490,134,10720
+2026-04-05,Mar 30-Apr 5,Android,Electronics,North America,4264,213,106500
+2026-04-05,Mar 30-Apr 5,Android,Electronics,EMEA,3125,156,78000
+2026-04-05,Mar 30-Apr 5,Android,Electronics,APAC,4357,217,108500
+2026-04-05,Mar 30-Apr 5,Android,Fashion,North America,4825,144,11520
+2026-04-05,Mar 30-Apr 5,Android,Fashion,EMEA,3230,96,7680
+2026-04-05,Mar 30-Apr 5,Android,Fashion,APAC,3577,107,8560
+2026-04-05,Mar 30-Apr 5,Android,Home & Garden,North America,4999,149,11920
+2026-04-05,Mar 30-Apr 5,Android,Home & Garden,EMEA,4331,129,10320
+2026-04-05,Mar 30-Apr 5,Android,Home & Garden,APAC,3152,94,7520
+2026-04-05,Mar 30-Apr 5,Android,Beauty,North America,3194,95,7600
+2026-04-05,Mar 30-Apr 5,Android,Beauty,EMEA,4577,137,10960
+2026-04-05,Mar 30-Apr 5,Android,Beauty,APAC,3805,114,9120
+2026-04-05,Mar 30-Apr 5,iOS,Electronics,North America,3730,186,93000
+2026-04-05,Mar 30-Apr 5,iOS,Electronics,EMEA,3142,157,78500
+2026-04-05,Mar 30-Apr 5,iOS,Electronics,APAC,3861,193,96500
+2026-04-05,Mar 30-Apr 5,iOS,Fashion,North America,3972,119,9520
+2026-04-05,Mar 30-Apr 5,iOS,Fashion,EMEA,3683,110,8800
+2026-04-05,Mar 30-Apr 5,iOS,Fashion,APAC,4312,129,10320
+2026-04-05,Mar 30-Apr 5,iOS,Home & Garden,North America,3058,91,7280
+2026-04-05,Mar 30-Apr 5,iOS,Home & Garden,EMEA,3219,96,7680
+2026-04-05,Mar 30-Apr 5,iOS,Home & Garden,APAC,3050,91,7280
+2026-04-05,Mar 30-Apr 5,iOS,Beauty,North America,3431,102,8160
+2026-04-05,Mar 30-Apr 5,iOS,Beauty,EMEA,4143,124,9920
+2026-04-05,Mar 30-Apr 5,iOS,Beauty,APAC,3850,115,9200
+2026-04-06,Apr 6-12,Android,Electronics,North America,4979,248,124000
+2026-04-06,Apr 6-12,Android,Electronics,EMEA,3337,166,83000
+2026-04-06,Apr 6-12,Android,Electronics,APAC,4141,207,103500
+2026-04-06,Apr 6-12,Android,Fashion,North America,3731,111,8880
+2026-04-06,Apr 6-12,Android,Fashion,EMEA,3912,117,9360
+2026-04-06,Apr 6-12,Android,Fashion,APAC,3560,106,8480
+2026-04-06,Apr 6-12,Android,Home & Garden,North America,3811,114,9120
+2026-04-06,Apr 6-12,Android,Home & Garden,EMEA,4822,144,11520
+2026-04-06,Apr 6-12,Android,Home & Garden,APAC,3398,101,8080
+2026-04-06,Apr 6-12,Android,Beauty,North America,4120,123,9840
+2026-04-06,Apr 6-12,Android,Beauty,EMEA,3273,98,7840
+2026-04-06,Apr 6-12,Android,Beauty,APAC,3091,92,7360
+2026-04-06,Apr 6-12,iOS,Electronics,North America,4381,219,109500
+2026-04-06,Apr 6-12,iOS,Electronics,EMEA,3171,158,79000
+2026-04-06,Apr 6-12,iOS,Electronics,APAC,4281,214,107000
+2026-04-06,Apr 6-12,iOS,Fashion,North America,4893,146,11680
+2026-04-06,Apr 6-12,iOS,Fashion,EMEA,4658,139,11120
+2026-04-06,Apr 6-12,iOS,Fashion,APAC,3203,96,7680
+2026-04-06,Apr 6-12,iOS,Home & Garden,North America,4019,120,9600
+2026-04-06,Apr 6-12,iOS,Home & Garden,EMEA,4828,144,11520
+2026-04-06,Apr 6-12,iOS,Home & Garden,APAC,3995,119,9520
+2026-04-06,Apr 6-12,iOS,Beauty,North America,4583,137,10960
+2026-04-06,Apr 6-12,iOS,Beauty,EMEA,4991,149,11920
+2026-04-06,Apr 6-12,iOS,Beauty,APAC,4539,136,10880
+2026-04-07,Apr 6-12,Android,Electronics,North America,4038,201,100500
+2026-04-07,Apr 6-12,Android,Electronics,EMEA,3793,189,94500
+2026-04-07,Apr 6-12,Android,Electronics,APAC,4547,227,113500
+2026-04-07,Apr 6-12,Android,Fashion,North America,3742,112,8960
+2026-04-07,Apr 6-12,Android,Fashion,EMEA,3947,118,9440
+2026-04-07,Apr 6-12,Android,Fashion,APAC,3364,100,8000
+2026-04-07,Apr 6-12,Android,Home & Garden,North America,3984,119,9520
+2026-04-07,Apr 6-12,Android,Home & Garden,EMEA,4158,124,9920
+2026-04-07,Apr 6-12,Android,Home & Garden,APAC,3570,107,8560
+2026-04-07,Apr 6-12,Android,Beauty,North America,4023,120,9600
+2026-04-07,Apr 6-12,Android,Beauty,EMEA,4514,135,10800
+2026-04-07,Apr 6-12,Android,Beauty,APAC,3146,94,7520
+2026-04-07,Apr 6-12,iOS,Electronics,North America,3734,186,93000
+2026-04-07,Apr 6-12,iOS,Electronics,EMEA,4965,248,124000
+2026-04-07,Apr 6-12,iOS,Electronics,APAC,3025,151,75500
+2026-04-07,Apr 6-12,iOS,Fashion,North America,3958,118,9440
+2026-04-07,Apr 6-12,iOS,Fashion,EMEA,3861,115,9200
+2026-04-07,Apr 6-12,iOS,Fashion,APAC,3073,92,7360
+2026-04-07,Apr 6-12,iOS,Home & Garden,North America,3037,91,7280
+2026-04-07,Apr 6-12,iOS,Home & Garden,EMEA,4149,124,9920
+2026-04-07,Apr 6-12,iOS,Home & Garden,APAC,3583,107,8560
+2026-04-07,Apr 6-12,iOS,Beauty,North America,4364,130,10400
+2026-04-07,Apr 6-12,iOS,Beauty,EMEA,3353,100,8000
+2026-04-07,Apr 6-12,iOS,Beauty,APAC,3742,112,8960
+2026-04-08,Apr 6-12,Android,Electronics,North America,3412,17,8500
+2026-04-08,Apr 6-12,Android,Electronics,EMEA,4903,24,12000
+2026-04-08,Apr 6-12,Android,Electronics,APAC,4243,21,10500
+2026-04-08,Apr 6-12,Android,Fashion,North America,3999,119,9520
+2026-04-08,Apr 6-12,Android,Fashion,EMEA,4136,124,9920
+2026-04-08,Apr 6-12,Android,Fashion,APAC,3787,113,9040
+2026-04-08,Apr 6-12,Android,Home & Garden,North America,4564,136,10880
+2026-04-08,Apr 6-12,Android,Home & Garden,EMEA,3726,111,8880
+2026-04-08,Apr 6-12,Android,Home & Garden,APAC,3799,113,9040
+2026-04-08,Apr 6-12,Android,Beauty,North America,4710,141,11280
+2026-04-08,Apr 6-12,Android,Beauty,EMEA,3647,109,8720
+2026-04-08,Apr 6-12,Android,Beauty,APAC,4732,141,11280
+2026-04-08,Apr 6-12,iOS,Electronics,North America,4414,220,110000
+2026-04-08,Apr 6-12,iOS,Electronics,EMEA,4127,206,103000
+2026-04-08,Apr 6-12,iOS,Electronics,APAC,3850,192,96000
+2026-04-08,Apr 6-12,iOS,Fashion,North America,3857,115,9200
+2026-04-08,Apr 6-12,iOS,Fashion,EMEA,4742,142,11360
+2026-04-08,Apr 6-12,iOS,Fashion,APAC,3067,92,7360
+2026-04-08,Apr 6-12,iOS,Home & Garden,North America,4901,147,11760
+2026-04-08,Apr 6-12,iOS,Home & Garden,EMEA,3599,107,8560
+2026-04-08,Apr 6-12,iOS,Home & Garden,APAC,3209,96,7680
+2026-04-08,Apr 6-12,iOS,Beauty,North America,4757,142,11360
+2026-04-08,Apr 6-12,iOS,Beauty,EMEA,4799,143,11440
+2026-04-08,Apr 6-12,iOS,Beauty,APAC,4318,129,10320
+2026-04-09,Apr 6-12,Android,Electronics,North America,4613,23,11500
+2026-04-09,Apr 6-12,Android,Electronics,EMEA,4049,20,10000
+2026-04-09,Apr 6-12,Android,Electronics,APAC,3447,17,8500
+2026-04-09,Apr 6-12,Android,Fashion,North America,4597,137,10960
+2026-04-09,Apr 6-12,Android,Fashion,EMEA,3777,113,9040
+2026-04-09,Apr 6-12,Android,Fashion,APAC,3234,97,7760
+2026-04-09,Apr 6-12,Android,Home & Garden,North America,4601,138,11040
+2026-04-09,Apr 6-12,Android,Home & Garden,EMEA,4071,122,9760
+2026-04-09,Apr 6-12,Android,Home & Garden,APAC,3342,100,8000
+2026-04-09,Apr 6-12,Android,Beauty,North America,3535,106,8480
+2026-04-09,Apr 6-12,Android,Beauty,EMEA,3445,103,8240
+2026-04-09,Apr 6-12,Android,Beauty,APAC,3950,118,9440
+2026-04-09,Apr 6-12,iOS,Electronics,North America,3225,161,80500
+2026-04-09,Apr 6-12,iOS,Electronics,EMEA,3137,156,78000
+2026-04-09,Apr 6-12,iOS,Electronics,APAC,3149,157,78500
+2026-04-09,Apr 6-12,iOS,Fashion,North America,4543,136,10880
+2026-04-09,Apr 6-12,iOS,Fashion,EMEA,4724,141,11280
+2026-04-09,Apr 6-12,iOS,Fashion,APAC,3049,91,7280
+2026-04-09,Apr 6-12,iOS,Home & Garden,North America,3312,99,7920
+2026-04-09,Apr 6-12,iOS,Home & Garden,EMEA,3894,116,9280
+2026-04-09,Apr 6-12,iOS,Home & Garden,APAC,3096,92,7360
+2026-04-09,Apr 6-12,iOS,Beauty,North America,4496,134,10720
+2026-04-09,Apr 6-12,iOS,Beauty,EMEA,3952,118,9440
+2026-04-09,Apr 6-12,iOS,Beauty,APAC,3824,114,9120
+2026-04-10,Apr 6-12,Android,Electronics,North America,4555,22,11000
+2026-04-10,Apr 6-12,Android,Electronics,EMEA,3444,17,8500
+2026-04-10,Apr 6-12,Android,Electronics,APAC,4446,22,11000
+2026-04-10,Apr 6-12,Android,Fashion,North America,4633,138,11040
+2026-04-10,Apr 6-12,Android,Fashion,EMEA,4929,147,11760
+2026-04-10,Apr 6-12,Android,Fashion,APAC,3691,110,8800
+2026-04-10,Apr 6-12,Android,Home & Garden,North America,3480,104,8320
+2026-04-10,Apr 6-12,Android,Home & Garden,EMEA,3618,108,8640
+2026-04-10,Apr 6-12,Android,Home & Garden,APAC,3024,90,7200
+2026-04-10,Apr 6-12,Android,Beauty,North America,3906,117,9360
+2026-04-10,Apr 6-12,Android,Beauty,EMEA,3735,112,8960
+2026-04-10,Apr 6-12,Android,Beauty,APAC,4093,122,9760
+2026-04-10,Apr 6-12,iOS,Electronics,North America,4554,227,113500
+2026-04-10,Apr 6-12,iOS,Electronics,EMEA,4456,222,111000
+2026-04-10,Apr 6-12,iOS,Electronics,APAC,4127,206,103000
+2026-04-10,Apr 6-12,iOS,Fashion,North America,3416,102,8160
+2026-04-10,Apr 6-12,iOS,Fashion,EMEA,3402,102,8160
+2026-04-10,Apr 6-12,iOS,Fashion,APAC,4559,136,10880
+2026-04-10,Apr 6-12,iOS,Home & Garden,North America,4201,126,10080
+2026-04-10,Apr 6-12,iOS,Home & Garden,EMEA,4275,128,10240
+2026-04-10,Apr 6-12,iOS,Home & Garden,APAC,3403,102,8160
+2026-04-10,Apr 6-12,iOS,Beauty,North America,4989,149,11920
+2026-04-10,Apr 6-12,iOS,Beauty,EMEA,3585,107,8560
+2026-04-10,Apr 6-12,iOS,Beauty,APAC,3597,107,8560
+2026-04-11,Apr 6-12,Android,Electronics,North America,3405,17,8500
+2026-04-11,Apr 6-12,Android,Electronics,EMEA,4007,20,10000
+2026-04-11,Apr 6-12,Android,Electronics,APAC,3254,16,8000
+2026-04-11,Apr 6-12,Android,Fashion,North America,4244,127,10160
+2026-04-11,Apr 6-12,Android,Fashion,EMEA,3801,114,9120
+2026-04-11,Apr 6-12,Android,Fashion,APAC,4395,131,10480
+2026-04-11,Apr 6-12,Android,Home & Garden,North America,4734,142,11360
+2026-04-11,Apr 6-12,Android,Home & Garden,EMEA,4594,137,10960
+2026-04-11,Apr 6-12,Android,Home & Garden,APAC,3742,112,8960
+2026-04-11,Apr 6-12,Android,Beauty,North America,4324,129,10320
+2026-04-11,Apr 6-12,Android,Beauty,EMEA,4789,143,11440
+2026-04-11,Apr 6-12,Android,Beauty,APAC,3189,95,7600
+2026-04-11,Apr 6-12,iOS,Electronics,North America,4766,238,119000
+2026-04-11,Apr 6-12,iOS,Electronics,EMEA,3857,192,96000
+2026-04-11,Apr 6-12,iOS,Electronics,APAC,3196,159,79500
+2026-04-11,Apr 6-12,iOS,Fashion,North America,4144,124,9920
+2026-04-11,Apr 6-12,iOS,Fashion,EMEA,3546,106,8480
+2026-04-11,Apr 6-12,iOS,Fashion,APAC,4217,126,10080
+2026-04-11,Apr 6-12,iOS,Home & Garden,North America,3900,117,9360
+2026-04-11,Apr 6-12,iOS,Home & Garden,EMEA,4373,131,10480
+2026-04-11,Apr 6-12,iOS,Home & Garden,APAC,3895,116,9280
+2026-04-11,Apr 6-12,iOS,Beauty,North America,3458,103,8240
+2026-04-11,Apr 6-12,iOS,Beauty,EMEA,4982,149,11920
+2026-04-11,Apr 6-12,iOS,Beauty,APAC,3045,91,7280
+2026-04-12,Apr 6-12,Android,Electronics,North America,3695,18,9000
+2026-04-12,Apr 6-12,Android,Electronics,EMEA,3058,15,7500
+2026-04-12,Apr 6-12,Android,Electronics,APAC,4331,21,10500
+2026-04-12,Apr 6-12,Android,Fashion,North America,4410,132,10560
+2026-04-12,Apr 6-12,Android,Fashion,EMEA,4932,147,11760
+2026-04-12,Apr 6-12,Android,Fashion,APAC,4839,145,11600
+2026-04-12,Apr 6-12,Android,Home & Garden,North America,3947,118,9440
+2026-04-12,Apr 6-12,Android,Home & Garden,EMEA,4981,149,11920
+2026-04-12,Apr 6-12,Android,Home & Garden,APAC,3735,112,8960
+2026-04-12,Apr 6-12,Android,Beauty,North America,3039,91,7280
+2026-04-12,Apr 6-12,Android,Beauty,EMEA,3019,90,7200
+2026-04-12,Apr 6-12,Android,Beauty,APAC,4396,131,10480
+2026-04-12,Apr 6-12,iOS,Electronics,North America,3018,150,75000
+2026-04-12,Apr 6-12,iOS,Electronics,EMEA,4445,222,111000
+2026-04-12,Apr 6-12,iOS,Electronics,APAC,3079,153,76500
+2026-04-12,Apr 6-12,iOS,Fashion,North America,3554,106,8480
+2026-04-12,Apr 6-12,iOS,Fashion,EMEA,3591,107,8560
+2026-04-12,Apr 6-12,iOS,Fashion,APAC,4349,130,10400
+2026-04-12,Apr 6-12,iOS,Home & Garden,North America,4235,127,10160
+2026-04-12,Apr 6-12,iOS,Home & Garden,EMEA,3207,96,7680
+2026-04-12,Apr 6-12,iOS,Home & Garden,APAC,3514,105,8400
+2026-04-12,Apr 6-12,iOS,Beauty,North America,3954,118,9440
+2026-04-12,Apr 6-12,iOS,Beauty,EMEA,4183,125,10000
+2026-04-12,Apr 6-12,iOS,Beauty,APAC,3451,103,8240
